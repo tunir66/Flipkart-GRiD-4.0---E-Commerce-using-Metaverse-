@@ -15,3 +15,22 @@
 # Voice chat with fellow shoppers, enablement of camera
 
 # Use your imagination and create innovative experiences.
+
+**Creating a connected Metaverse experience on the web for E-Commerce:**
+We have developed a virtual space for a E-Commerce from scratch using tools like Unity 3D and Mona.
+
+**Customers can join and experience a 3D world of shopping along with their friends:**
+We have added the feature to invite friends while shopping which will also safeguard their privacy asonly the person, they want will have access to the space.
+
+**This system also allows voice and chat enabled conversations with other customers/friends on the platform:**
+We have added the feature to interact with each other inside the virtual space using text chat or voice options.
+
+**The user can also create his/her own avatar which will give them a customizable experience:**
+The Customer can create their own avatars which can be customized at any point of time.
+
+**Customers can also view the items in 3D format in the virtual space:**
+We have given a whole new experience to the customer in viewing their product i.e., the product can be viewed in 3D.
+
+Customers can teleport through various sections of products(Fashion, Electronics, etc.) using portals which will takethem to a whole new space of the selected section.
+
+Customer can add, delete or edit products to their cart and check out which will lead them to an online merchantsystem to buys the products.
